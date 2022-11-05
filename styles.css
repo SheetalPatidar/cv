@@ -1,0 +1,73 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-family: 'Freehand', cursive;
+
+	
+}
+h1{
+	margin-top: 0;
+}
+
+h3{
+	margin-top: 50px;
+	font-family: 'Montserrat' , sans-serif;
+}
+
+.top-cont{
+	background-color:  #B9E0FF;
+	padding-top: 100px;
+	height: 305px;
+}
+
+hr{
+	border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 10px;
+    width: 10%;
+}
+
+.middle-cont{
+	background-color:lightblue;
+}
+
+.bottom-cont{
+	margin-bottom: 40px;
+	margin-top: 20px;
+	background-color: #FCE2DB;
+}
+
+.top-cloud{
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	top: 5px;
+	right: 500px;
+}
+
+.bottom-cloud{
+	height: 100px;
+	width: 150px;
+	position: absolute;
+	left: 500px;
+}
+
+.mountain{
+	width: 300px;
+	height: 300px;
+	position: relative;
+}
+
+.name{
+	margin-left: 30%;
+}
+
+.book{
+	margin-left: 40%;
+	margin-bottom: 30px;
+}
+
+a:hover{
+	background-color: lightgreen;
+}
